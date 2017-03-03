@@ -1,0 +1,22 @@
+{
+  "name": "personal_website",
+  "version": "0.1.0",
+  "description": "This is the personal website for Spencer Caldwell",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CardinalWolsey/personal_website.git"
+  },
+  "author": "spencer.caldwell@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CardinalWolsey/personal_website/issues"
+  },
+  "homepage": "https://github.com/CardinalWolsey/personal_website#readme",
+  "dependencies": {
+    "express": "^4.15.0"
+  }
+}
